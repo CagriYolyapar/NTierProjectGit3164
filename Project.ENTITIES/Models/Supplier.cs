@@ -11,5 +11,7 @@ namespace Project.ENTITIES.Models
         public string CompanyName { get; set; }
 
         //Relational Properties
+
+        //Merhaba Berkay
     }
 }

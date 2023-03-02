@@ -17,6 +17,8 @@ namespace Project.ENTITIES.Models
 
         //Merhaba Çağrı Hocam
 
+        //Merhaba arkadaşlar.
+
         //Nasılsın
     }
 }

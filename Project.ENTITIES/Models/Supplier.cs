@@ -12,6 +12,8 @@ namespace Project.ENTITIES.Models
 
         //Relational Properties
 
+        //Merhaba Berkay
+
 
         //Merhaba Çağrı Hocam
     }
